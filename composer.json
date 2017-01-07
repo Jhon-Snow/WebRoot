@@ -1,0 +1,11 @@
+{
+    "name": "clevertech/yii-booster",
+    "authors": [
+        {
+            "name": "Antonio Ramirez",
+            "email": "amigo.cobos@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
